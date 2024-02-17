@@ -1,25 +1,21 @@
-# Firebase Github API react Application
+## Firebase Github API react Application
 
 This project is made with the help of React Framework.
-<br><br> In this Project i have used
 
-## 1. Firebase for login and Signup
 
-## 2. Github API for getting the details of github users.
+- 1. Firebase for login and Signup
 
-<br>
-<br>
+- 2. Github API for getting the details of github users.
 
-### I have made this project while learning the React and learn many things like-
 
-<br>1. How to handle API.
-<br>2. How to use Firebase
-and many more <br>
-<br>
+
+### I have made this project while learning the React and learn many things like -
+
+1. How to handle API.
+2. How to use Firebase
+>
 
 # Live Link
 
-## [Firebase Github App](https://firebasegithub.netlify.app/)
+#### [Firebase Github App](https://firebasegithub.netlify.app/)
 
-<br>
-<br>
